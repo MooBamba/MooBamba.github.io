@@ -29,6 +29,9 @@
     align-items: center;
     background-color: #000000;
     padding: 2rem 7rem 2rem 7rem;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 .section-logo{
@@ -882,6 +885,9 @@ span{
         align-items: center;
         background-color: #000000;
         padding: 2rem 2.5rem 2rem 2.5rem;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
     }  
 
     .section-logo{
@@ -1353,6 +1359,9 @@ span{
         align-items: center;
         background-color: #000000;
         padding: 2rem 1rem 1rem 1em;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
     }  
 
     .header-menu-container{
